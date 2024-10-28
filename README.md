@@ -49,10 +49,8 @@ local updatedData = encoder.decode(fs.readFileSync("myUpdatedData.log"))
 ### Benchmark
 
 ```bash
-lua benchmark.lua
-luajit benchmark.lua
 luvit benchmark.lua
-#... or whatever lua compiler you are using i guess
+# If you need to use this on other env's you will either need to remove the minifiying thing or replace it with another one that you have.
 ```
 
 ## License
