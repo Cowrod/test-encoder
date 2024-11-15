@@ -1,6 +1,6 @@
 # test-encoder
-uhh simple array encoder/decoder<br/>
-it encodes fasts but decodes slow
+simple array encoder/decoder<br/>
+faster than luvit's json, but a big bigger rathor to luvit's json.
 
 ## Usage
 
